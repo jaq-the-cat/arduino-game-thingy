@@ -19,7 +19,6 @@ Little Arduino game I made to learn stuff
   - VRy -> A1 (Analog)
 
 ## Pictures:
-  ![pic0](pics/pic0.png)
   ![pic4](pics/pic4.png)
   ![pic2](pics/pic2.png)
   ![pic3](pics/pic3.png)
