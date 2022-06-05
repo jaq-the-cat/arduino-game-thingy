@@ -20,5 +20,5 @@ Little Arduino game I made to learn stuff
 
 ## Pictures:
   ![pic4](pics/pic4.png)
-  ![pic2](pics/pic2.png)
+  ![pic5](pics/pic5.png)
   ![pic3](pics/pic3.png)
